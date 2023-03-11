@@ -2,4 +2,4 @@
 
 ## DB Setup:
 
-Install PHPMyAdmin and Create Database Calle blog with table called students
+Install PHPMyAdmin and Create Database Called blog with table called students
